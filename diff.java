@@ -3,6 +3,6 @@ public class diff {
         int a = 6;
         int b = 4;
         int rs = a/b;
-        System.out.println(rs);
+        System.out.println("Division"+rs);
     }    
 }
